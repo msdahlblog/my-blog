@@ -1,0 +1,10 @@
+baseURL = "https://msdahlblog.github.io/"
+languageCode = "da-dk"
+title = "My Blog"
+theme = "cactus-plus"
+
+[params]
+  author = "Michael S. Dahl"
+  description = "Om strategi, sport og ledelse"
+  bio = "Professor, Aalborg Universitet og NHH i Bergen"
+  # You can add more social links as needed
