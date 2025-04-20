@@ -1,3 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://msdahlblog.github.io/my-blog/"
+languageCode = "da-dk"
+title = "My Blog"
+theme = "PaperMod"
+
+[params]
+  mainSections = ["posts"]
+  
+  [params.homeInfoParams]
+  Title = "Welcome to My Blog"
+  Content = "This is my personal blog where I share my thoughts and ideas."
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20

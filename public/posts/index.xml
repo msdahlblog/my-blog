@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 10:36:18 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts on My Blog</title>
+    <link>http://localhost:1313/my-blog/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Test Post</title>
-      <link>https://example.org/posts/2025-04-20-my-second-test-post-test-hugo/</link>
-      <pubDate>Sun, 20 Apr 2025 10:36:18 +0000</pubDate>
-      <guid>https://example.org/posts/2025-04-20-my-second-test-post-test-hugo/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;tags-test-hugo&#34;&gt;title: &amp;ldquo;Test Blog Post&amp;rdquo;&#xA;date: 2025-04-18T12:00:00Z&#xA;draft: false&#xA;author: &amp;ldquo;Your Name&amp;rdquo;&#xA;tags: [&amp;ldquo;test&amp;rdquo;, &amp;ldquo;hugo&amp;rdquo;]&lt;/h2&gt;&#xA;&lt;p&gt;This is a test post for my new Hugo blog.&lt;/p&gt;&#xA;&lt;p&gt;I can write &lt;strong&gt;bold text&lt;/strong&gt;, &lt;em&gt;italic text&lt;/em&gt;, and [links](&lt;a href=&#34;https://example.com&#34;&gt;https://example.com&lt;/a&gt; &lt;a href=&#34;https://example.com/&#34;&gt;https://example.com/&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;h2 id=&#34;subheading&#34;&gt;Subheading&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;List item 1&lt;/li&gt;&#xA;&lt;li&gt;List item 2&lt;/li&gt;&#xA;&lt;li&gt;List item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This is a blockquote. It can be used for quotes or highlighting important information.&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to My Blog</title>
-      <link>https://example.org/posts/welcome/</link>
+      <title>Test Post</title>
+      <link>http://localhost:1313/my-blog/posts/test/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/welcome/</guid>
-      <description>&lt;p&gt;Welcome to my new blog! This is a clean, fresh start with the PaperMod theme.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll be posting content regularly here through my email-to-post system.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/my-blog/posts/test/</guid>
+      <description>&lt;p&gt;This is a test post for my new blog. I&amp;rsquo;ll be posting content regularly here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
