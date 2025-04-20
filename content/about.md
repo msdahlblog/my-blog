@@ -3,6 +3,7 @@ title: "About"
 layout: "single"
 ---
 
-This is my personal blog where I share my thoughts and ideas.
-
-I've set up this blog to allow posting via email, which makes it easy for me to update from anywhere.
+### Michael S. Dahl
+Tanker og forskning om strategi, ledelse og økonomi
+Professor @ Aalborg Universitet
+Professor II @ NHH, Norwegian School of Economics, Bergen
