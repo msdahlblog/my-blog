@@ -6,14 +6,6 @@ author: "Michael S. Dahl"
 tags: ["AaB", "Sport", "Strategi"]
 ---
 
-—
-title: “Forbandelsens mesterskab”
-date: 2025-04-20T15:30:25Z 
-draft: false 
-author: "Michael S. Dahl” 
-tags: ["AaB", "Sport", "Strategi”] 
----
-
 **Fortællingen er primært set ude fra som fan. Men i dele af perioden har jeg også været tættere på klubben som bestyrelsesformand for en sponsor, Spar Nord Fonden. Et par måneder før nedrykningen blev Fonden ligeledes en del af AaB’s ejerkreds med en filantropisk investering i klubben og fælleskabet omkring den. Det er trods dette meget begrænset, hvad jeg kender til faktiske forhold på de interne linjer i den periode, som jeg dækker her. Det giver naturligt en hel del begrænsninger for analysen. Mit formål er med min faglighed at forklare, hvorfor jeg tror, at AaB er endt med nedrykning i 2023. Det er ikke mit mål at udpege enkeltpersoner som ansvarlige, hvilket forhåbentlig fremgår tydeligt af fortællingen om de sidste 10 år’s AaB.**
 
 AaB Boldspilklub A/S minder på mange måder om andre selskaber og virksomheder i mere traditionelle brancher, selvom det er en fodboldklub. Jeg har fagligt og strategisk interesseret mig for virksomheder, der trods succes alligevel taber pusten med tiden, når den branchen, det miljø og den virkelighed, som virksomheden opererer i, forandrer sig markant. Nokia, Kodak, Blockbuster osv. er typiske kendte eksempler. Virksomheder, som på grund af de naturlige kræfter og relationer, der gjorde dem stærke i fortiden, mister evnen til at tilpasse sig. Relationer, vaner og selvbilleder ændres fra en stor fordel til en kæmpe forhindring for fremtiden. For mig personligt, er det lige dele sørgeligt og lige dele fascinerende, at dygtige ledere kan have stor succes i ét miljø, men fuldstændig tabe evnen til at drive forretning i et andet konkurrencemiljø.
