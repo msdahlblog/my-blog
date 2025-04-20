@@ -1,0 +1,2 @@
+# Prevent redirects to XML
+DirectoryIndex index.html
