@@ -1,10 +1,12 @@
 ---
 title: "Forbandelsens mesterskab"
-date: 2025-04-20T11:48:37.077Z
+date: 2023-09-05T11:48:37.077Z
 draft: false
 author: "Michael S. Dahl"
 tags: ["AaB", "Sport", "Strategi"]
 ---
+
+Originalt udgivet på Medium, 5. september 2023.
 
 **Fortællingen er primært set ude fra som fan. Men i dele af perioden har jeg også været tættere på klubben som bestyrelsesformand for en sponsor, Spar Nord Fonden. Et par måneder før nedrykningen blev Fonden ligeledes en del af AaB’s ejerkreds med en filantropisk investering i klubben og fælleskabet omkring den. Det er trods dette meget begrænset, hvad jeg kender til faktiske forhold på de interne linjer i den periode, som jeg dækker her. Det giver naturligt en hel del begrænsninger for analysen. Mit formål er med min faglighed at forklare, hvorfor jeg tror, at AaB er endt med nedrykning i 2023. Det er ikke mit mål at udpege enkeltpersoner som ansvarlige, hvilket forhåbentlig fremgår tydeligt af fortællingen om de sidste 10 år’s AaB.**
 
