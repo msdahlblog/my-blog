@@ -1,0 +1,30 @@
+baseURL: "https://msdahlblog.github.io/my-blog/"
+languageCode: "da-dk"
+title: "My Blog"
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "My Blog"
+    subtitle: "A simple blog where I share my thoughts"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
