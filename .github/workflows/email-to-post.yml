@@ -19,7 +19,7 @@ jobs:
           node-version: '16'
           
       - name: Install dependencies
-        run: npm install imap simple-mail-parser slugify
+        run: npm install imap mailparser slugify
 
       - name: Check email and create posts
         run: node .github/scripts/email-to-post.js
@@ -36,4 +36,3 @@ jobs:
           git config --local user.name "GitHub Action"
           git add content/posts/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Add new post from email" && git push)
-
