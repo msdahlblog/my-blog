@@ -5,6 +5,9 @@ on:
     - cron: '*/30 * * * *'  # Run every 30 minutes
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write  # This line grants permission to push to the repository
+
 jobs:
   check-email-and-post:
     runs-on: ubuntu-latest
