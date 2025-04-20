@@ -7,8 +7,8 @@ theme = "PaperMod"
   mainSections = ["posts"]
   
   [params.homeInfoParams]
-  Title = "Welcome to My Blog"
-  Content = "This is my personal blog where I share my thoughts and ideas."
+  Title = "Michael S. Dahl - Min blog"
+  Content = "Tanker og forskning om strategi, ledelse og økonomi."
 
 [menu]
   [[menu.main]]
