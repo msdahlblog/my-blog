@@ -1,6 +1,6 @@
 baseURL = "https://msdahlblog.github.io/my-blog/"
 languageCode = "da-dk"
-title = "My Blog"
+title = "Michael S. Dahl - Min blog"
 theme = "PaperMod"
 
 [params]
