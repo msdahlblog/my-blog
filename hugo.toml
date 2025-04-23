@@ -35,3 +35,23 @@ canonifyURLs = true
 # Suppress HTML warnings
 ignoreLogs = ['warning-goldmark-raw-html']
 
+# Set Danish date formatting
+[params]
+  dateFormat = "2 January 2006"
+
+# Enable Danish translation
+defaultContentLanguage = "da"
+
+[languages]
+  [languages.da]
+    languageName = "Dansk"
+    weight = 1
+    
+    # Danish date and time formats
+    [languages.da.params]
+      dateFormat = "2. January 2006"
+      # For fully localized month names
+      monthNames = ["Januar", "Februar", "Marts", "April", "Maj", "Juni", "Juli", "August", "September", "Oktober", "November", "December"]
+      shortMonthNames = ["Jan", "Feb", "Mar", "Apr", "Maj", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dec"]
+      dayNames = ["Søndag", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag"]
+      shortDayNames = ["Søn", "Man", "Tir", "Ons", "Tor", "Fre", "Lør"]
