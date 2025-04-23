@@ -2,17 +2,42 @@ baseURL = "https://blog.msdahl.net/"
 languageCode = "da-dk"
 title = "Michael S. Dahls blog"
 theme = "PaperMod"
+defaultContentLanguage = "da"
 
-# Add this to ensure proper resource loading
-canonifyURLs = true
+# Allow raw HTML in Markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
+# Suppress HTML warnings
+ignoreLogs = ['warning-goldmark-raw-html']
+
+# All params should be in a single section
 [params]
   mainSections = ["posts"]
+  dateFormat = "2. January 2006"
+  customCSS = ["css/custom.css"]
   
   [params.homeInfoParams]
   Title = "En professors blog om strategi, ledelse og økonomi"
   Content = "Mine egne tanker om aktuelle strategiske udfordringer, særligt i sport, med reference til aktuelt og nyere forskning. Alt kan diskuteres, så tag det ikke for mere end et indspark til debatten."
 
+# Language settings
+[languages]
+  [languages.da]
+    languageName = "Dansk"
+    weight = 1
+    
+    # Danish date and time formats
+    [languages.da.params]
+      dateFormat = "2. January 2006"
+      monthNames = ["Januar", "Februar", "Marts", "April", "Maj", "Juni", "Juli", "August", "September", "Oktober", "November", "December"]
+      shortMonthNames = ["Jan", "Feb", "Mar", "Apr", "Maj", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dec"]
+      dayNames = ["Søndag", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag"]
+      shortDayNames = ["Søn", "Man", "Tir", "Ons", "Tor", "Fre", "Lør"]
+
+# Menu settings
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -24,34 +49,3 @@ canonifyURLs = true
     name = "Om"
     url = "/about/"
     weight = 20
-
-
-# Allow raw HTML in Markdown
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-# Suppress HTML warnings
-ignoreLogs = ['warning-goldmark-raw-html']
-
-# Set Danish date formatting
-[params]
-  dateFormat = "2 January 2006"
-
-# Enable Danish translation
-defaultContentLanguage = "da"
-
-[languages]
-  [languages.da]
-    languageName = "Dansk"
-    weight = 1
-    
-    # Danish date and time formats
-    [languages.da.params]
-      dateFormat = "2. January 2006"
-      # For fully localized month names
-      monthNames = ["Januar", "Februar", "Marts", "April", "Maj", "Juni", "Juli", "August", "September", "Oktober", "November", "December"]
-      shortMonthNames = ["Jan", "Feb", "Mar", "Apr", "Maj", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dec"]
-      dayNames = ["Søndag", "Mandag", "Tirsdag", "Onsdag", "Torsdag", "Fredag", "Lørdag"]
-      shortDayNames = ["Søn", "Man", "Tir", "Ons", "Tor", "Fre", "Lør"]
