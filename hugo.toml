@@ -16,12 +16,12 @@ canonifyURLs = true
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Indlæg"
     url = "/posts/"
     weight = 10
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Om"
     url = "/about/"
     weight = 20
 
