@@ -1,6 +1,6 @@
 baseURL = "https://blog.msdahl.net/"
 languageCode = "da-dk"
-title = "My Blog"
+title = "Michael S. Dahl's Blog"
 theme = "PaperMod"
 
 # Add this to ensure proper resource loading
@@ -10,8 +10,8 @@ canonifyURLs = true
   mainSections = ["posts"]
   
   [params.homeInfoParams]
-  Title = "Michael S. Dahl - Min blog"
-  Content = "Tanker og forskning om strategi, ledelse og økonomi."
+  Title = "En professors blog om strategi ledelse og økonomi"
+  Content = "Mine egne tanker om aktuelle strategiske udfordringer, særligt i sport, med reference til forskning. Alt kan diskuteres, så tag det ikke for mere end et indspark til debatten."
 
 [menu]
   [[menu.main]]
