@@ -24,3 +24,11 @@ canonifyURLs = true
     name = "About"
     url = "/about/"
     weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
+  # Suppress the warning about raw HTML
+  ignoreLogs = ['warning-goldmark-raw-html']
