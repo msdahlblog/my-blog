@@ -1,7 +1,10 @@
-baseURL = "https://msdahlblog.github.io/my-blog/"
+baseURL = "https://blog.msdahl.net/"
 languageCode = "da-dk"
-title = "Michael S. Dahl - Min blog"
+title = "My Blog"
 theme = "PaperMod"
+
+# Add this to ensure proper resource loading
+canonifyURLs = true
 
 [params]
   mainSections = ["posts"]
