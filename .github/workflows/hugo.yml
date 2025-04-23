@@ -30,9 +30,11 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-      
+
       - name: Create CNAME file
-        run: echo "blog.msdahl.net" > static/CNAME
+        run: |
+          mkdir -p static
+          echo "blog.msdahl.net" > static/CNAME
       
       - name: Build
         run: hugo --minify
