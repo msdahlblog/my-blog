@@ -1,6 +1,6 @@
 ---
 title: "Om geografisk mobilitet på det danske arbejdsmarked"
-date: 2025-04-23T13:34:55.517Z
+date: 2015-08-04T13:34:55.517Z
 draft: false
 author: "Michael S. Dahl"
 tags: ["forskning", "mobilitet"]
