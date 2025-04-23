@@ -1,6 +1,6 @@
 ---
 title: "AaBs strategi og genrejsning: Om at bevare ilden fremfor at tilbede asken"
-date: 2025-04-23T10:35:58.221Z
+date: 2024-02-18T10:35:58.221Z
 draft: false
 author: "Michael S. Dahl"
 tags: ["AaB", "Sport", "Strategi"]
