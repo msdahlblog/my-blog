@@ -39,17 +39,20 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add content/posts/
-          if ! git diff --quiet && ! git diff --staged --quiet; then
+          git status
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "changes_made=false" >> $GITHUB_OUTPUT
+          else
+            echo "Committing changes"
             git commit -m "Add new post from email"
             git push
             echo "changes_made=true" >> $GITHUB_OUTPUT
-          else
-            echo "changes_made=false" >> $GITHUB_OUTPUT
           fi
-            
+      
       - name: Trigger Hugo build
         if: steps.commit.outputs.changes_made == 'true'
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           event-type: rebuild-site
