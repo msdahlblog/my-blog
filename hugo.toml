@@ -1,6 +1,6 @@
 baseURL = "https://blog.msdahl.net/"
 languageCode = "da-dk"
-title = "Michael S. Dahl's blog"
+title = "Michael S. Dahls blog"
 theme = "PaperMod"
 
 # Add this to ensure proper resource loading
