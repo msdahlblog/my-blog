@@ -10,6 +10,9 @@ tags: ["AaB", "Sport", "Strategi"]
 > "*Tradition is not the worship of ashes, but the preservation of fire.*"
 > -- <cite>*Gustav Mahler (1860–1911)*</cite>
 
+<img src="/images/mahler.png" alt="Mahler" width="300" style="float: right; margin: 0 0 10px 10px;">
+
+
 Jeg sidder og lytter til [Frederik Cilius’](tab:https://twitter.com/badehat) og [Mikael Bertelsens](tab:https://twitter.com/BertelsenMikael) fremragende serie Bernsteins cigaretetui på [r8dio](tab:https://r8dio.dk/), da Frederik nævner ovenstående citat fra den østrigske komponist [Gustav Mahler](tab:https://en.wikipedia.org/wiki/Gustav_Mahler). Tradition handler ikke om at tilbede asken, men om at bevare ilden. Det citat bringer mig direkte ind i tanker omkring strategi og virksomheders DNA, og hvorfor organisationer har så svært ved at lægge gamle successer bag sig og forny sig strategisk. Traditioner, historier og såkaldt DNA bliver en forhindring, når afstanden til konkurrenterne bliver større. Det er det, jeg læser ud af Mahlers citat. Jeg ser mange virksomheder tilbede asken af fordoms storhed frem for at kæmpe for at bevare ilden under nye og markant ændrede konkurrenceforhold. Historien og traditionerne kan være vigtige udgangspunkter for forandring, men hænger man fast i dem, er det livsfarligt for organisationen. Ilden dør ud, mens man kigger på asken og drømmer sig tilbage.
 
 ### Fodbolden som referenceramme
