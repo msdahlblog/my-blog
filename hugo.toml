@@ -10,8 +10,8 @@ canonifyURLs = true
   mainSections = ["posts"]
   
   [params.homeInfoParams]
-  Title = "En professors blog om strategi ledelse og økonomi"
-  Content = "Mine egne tanker om aktuelle strategiske udfordringer, særligt i sport, med reference til forskning. Alt kan diskuteres, så tag det ikke for mere end et indspark til debatten."
+  Title = "En professors blog om strategi, ledelse og økonomi"
+  Content = "Mine egne tanker om aktuelle strategiske udfordringer, særligt i sport, med reference til aktuelt og nyere forskning. Alt kan diskuteres, så tag det ikke for mere end et indspark til debatten."
 
 [menu]
   [[menu.main]]
