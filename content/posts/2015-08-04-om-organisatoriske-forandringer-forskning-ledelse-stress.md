@@ -1,6 +1,6 @@
 ---
 title: "Om organisatoriske forandringer"
-date: 2025-04-23T13:34:55.503Z
+date: 2015-08-04T13:00:55.503Z
 draft: false
 author: "Michael S. Dahl"
 tags: ["forskning", "ledelse", "stress"]
