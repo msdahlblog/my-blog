@@ -1,0 +1,17 @@
+[posts]
+other = "Indlæg"
+
+[categories]
+other = "Kategorier"
+
+[tags]
+other = "Tags"
+
+[recent_posts]
+other = "Seneste indlæg"
+
+[read_more]
+other = "Læs mere"
+
+[published_on]
+other = "Udgivet den"
