@@ -1,9 +1,9 @@
 ---
-title: "Hvem ansættes i nye virksomheder?  ærksætteri"
-date: 2025-04-23T13:34:55.511Z
+title: "Hvem ansættes i nye virksomheder?"
+date: 2015-08-15T13:34:55.511Z
 draft: false
 author: "Michael S. Dahl"
-tags: ["forskning", "iv"]
+tags: ["forskning", "iværksætteri"]
 ---
 
 Forskere i entreprenørskab og nye vækstvirksomheder har de seneste år været meget interesserede i, hvad der skaber gode resultater og hvordan medarbejdere, teams og iværksættere bidrager til disse. Vi kender alle historier fra enkelte virksomheder, som har fået succes, men hvad der systematisk skaber på tværs af mange virksomheder er mindre klart. Det er ikke enkelt at udlede dette fra de enkelte cases, og iværksætternes egne forklaringer kan være præget af efterrationaliseringer.
