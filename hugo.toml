@@ -1,7 +1,9 @@
 baseURL = "https://blog.msdahl.net/"
 languageCode = "da-dk"
 title = "Michael S. Dahls blog"
-theme = "PaperMod"
+# This project serves migration redirects after the main site is published.
+# The original theme remains in the repository as an archive.
+theme = ""
 defaultContentLanguage = "da"
 
 # Allow raw HTML in Markdown
